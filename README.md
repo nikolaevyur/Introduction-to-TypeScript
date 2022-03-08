@@ -1,2 +1,2 @@
 # Introduction-to-TypeScript
-One page website about TypeScript.
+Одностраничный сайт о языке программирования TypeScript, разработанный с использованием HTML и CSS. 
