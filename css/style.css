@@ -1,0 +1,51 @@
+body { 
+  margin-right: 25%;
+  margin-left: 25%;
+  font-family: 'Nunito', sans-serif;
+  max-width: 720px;
+ }
+
+.mainMenu {
+  position: fixed;
+  z-index: 1;
+  top: 0; 
+  left: 0;
+  background-color: rgb(255, 255, 255); 
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.listMenu {
+  list-style-type: none;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.introduction {
+  padding: 10px;
+}
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-indent: 20px;
+}
+
+.image {
+  border-radius: 25px;
+  display: block;
+  margin: 0 auto; 
+}
+
+figcaption {
+  text-align: center;
+}
+
+.textTS {
+ padding: 10px;
+}
